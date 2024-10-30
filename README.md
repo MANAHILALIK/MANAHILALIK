@@ -13,6 +13,7 @@
 - 📫 How to reach me **malikminahil969@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/MANAHILALIK/my-cv.git](https://github.com/MANAHILALIK/my-cv.git)
+- - 📄 Know about my work - https://github.com/MANAHILALIK/manahil-s-portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
